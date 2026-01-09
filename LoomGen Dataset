@@ -1,1 +1,10 @@
-The LoomGen dataset 
+The dataset used in this work will be found at the following link:
+
+**https://huggingface.co/datasets/bitupandeka/LoomGen**
+
+The dataset consists of traditional Assamese handloom motif images collected
+from Sualkuchi, Assam. It is an image-only dataset with no class labels and is
+intended for unsupervised generative modeling tasks.
+
+Please refer to the dataset card at the above link for detailed information
+regarding dataset structure, licensing, and usage conditions.
