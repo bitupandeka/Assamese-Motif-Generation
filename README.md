@@ -28,8 +28,8 @@ Dataset Details
 -Labels: None
 -Intended for generative modeling
 
-**Dataset link:**  
-[https://huggingface.co/datasets/your-username/loom-gen](https://huggingface.co/datasets/bitupandeka/LoomGen)
+**Dataset link:**
+**https://huggingface.co/datasets/bitupandeka/LoomGen**  
 
 Please refer to the dataset card on Hugging Face for detailed metadata,
 license, and usage terms.
