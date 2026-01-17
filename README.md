@@ -31,5 +31,8 @@ Dataset Details
 **Dataset link:**
 **https://huggingface.co/datasets/bitupandeka/LoomGen**  
 
+**Dataset with labels**
+**https://huggingface.co/datasets/bitupandeka/LoomGen_Labelled**
+
 Please refer to the dataset card on Hugging Face for detailed metadata,
 license, and usage terms.
