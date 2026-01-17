@@ -32,7 +32,7 @@ Dataset Details
 **https://huggingface.co/datasets/bitupandeka/LoomGen**  
 
 **Dataset with labels**
-**https://huggingface.co/datasets/bitupandeka/LoomGen_Labelled**
+**https://huggingface.co/datasets/bitupandeka/LoomGen_Labelled/tree/main/LoomGen%20Labelled**
 
 Please refer to the dataset card on Hugging Face for detailed metadata,
 license, and usage terms.
