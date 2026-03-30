@@ -38,5 +38,11 @@ Please refer to the dataset card on Hugging Face for detailed metadata,
 license, and usage terms.
 
 If you use the Loom-Gen dataset for academic research, publication, or commercial purposes, kindly acknowledge the authors by citing the following papers:
-1. Bitupan Deka, Shyamanta M. Hazarika, Alexy Bhowmick, "LoomGen: An Extended Benchmark of Assamese Motifs for Diffusion-based Generative Modeling", Accepted for Publication at Elsevier Pattern Recognition Letters, 2026.
+1. @article{deka2026loomgen,
+  title={LoomGen: An Extended Benchmark of Assamese Motifs for Diffusion-based Generative Modeling},
+  author={Deka, Bitupan and Hazarika, Shyamanta M and Bhowmick, Alexy},
+  journal={Pattern Recognition Letters},
+  year={2026},
+  publisher={Elsevier}
+}
 2. Bitupan Deka, Alexy Bhowmick, Shyamanta M. Hazarika, "Loom-Gen: Reimagining Assamese Motifs using Diffusion-based Generative Models", Accepted for Publication at CVIP 2025, IIT Ropar, 2025
